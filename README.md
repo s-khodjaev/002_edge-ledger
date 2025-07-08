@@ -1,0 +1,12 @@
+## EdgeLedger Website
+
+![image](https://private-user-images.githubusercontent.com/109642388/463640934-a524976a-a7ad-4511-85cf-70be2c549fb0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE5NzExNzEsIm5iZiI6MTc1MTk3MDg3MSwicGF0aCI6Ii8xMDk2NDIzODgvNDYzNjQwOTM0LWE1MjQ5NzZhLWE3YWQtNDUxMS04NWNmLTcwYmUyYzU0OWZiMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwOFQxMDM0MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZWY4YjFhMTY0YTg1Yjg0NmY4NjM0ZDc1YTY5ZmM5ZjE1Y2QzZGMwYjI5ZDhhMTU0Y2QyNjJlMWQwMzU3NWZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Edai63tGMLkd4v98nMGONfhY6ysgX7stpeUFoDi3SFs)
+
+This template is from [**Modern HTML & CSS from the beginning**](https://www.traversymedia.com/modern-html-css-from-the-beginning) course by _Brad Traversy_
+
+This templates includes the following features:
+  - use of CSS flexbox
+  - pleasant and clean design
+  - use of JavaScript and LightBox JS
+  - use of font-awesome icons
+  - fully responsive
